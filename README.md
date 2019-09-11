@@ -7,3 +7,5 @@ This folder contains the following data types:
 5. Results of statistical analyses
 
 Note: One or more data types (not necessarily all) are available for each publication.
+
+Normal-Urine-Dataset1: TSD and TPD data for all samples (replicates averaged); Publication: Spectral characteristics of urine specimens from healthy human volunteers analyzed using Raman chemometric urinalysis (Rametrix™) (2019) PLOS ONE
